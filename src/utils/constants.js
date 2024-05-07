@@ -14,4 +14,5 @@ export const SUPPORTED_LANGUAGES = [
   {identifier:"telugu",name:"Telugu"},
   {identifier:"hindi",name:"Hindi"}
 ];
-export const OPENAI_KEY = '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';
+export const OPENAI_KEY = 'openaikey';
+//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
